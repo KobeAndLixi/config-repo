@@ -1,0 +1,8 @@
+#数据库连接串 & 密码
+mariadb:
+  url: ''
+  password: ''
+  
+userservice:
+  registration:
+    disabled: true
